@@ -20,6 +20,7 @@ npm install
 1. `.env`ファイルを作成し、以下の内容を設定してください：
 
 ```
+LANGSMITH_TRACING=true
 LANGSMITH_API_KEY=your_langsmith_api_key
 OPENAI_API_KEY=your_openai_api_key
 ```
